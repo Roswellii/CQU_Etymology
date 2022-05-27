@@ -3,9 +3,16 @@
 # @Author   Zhou Yiqun,CS,CQU
 # @File    : main.py
 # @Software: PyCharm
+
+# 这是一个简单的背词器脚本，用来迎接十八周的词根词缀考试.
+# 我尽可能多写了一些注释，欢迎大家进一步修改。也许搞一个小程序版更加方便。
+# Prof.He给的复习资料的第二第三部分对应项目中的part2.txt和part3.txt
+# 请确保它们和main.py在同一文件夹下
+# 祝大家一切顺利
+# contact: zhouyiqun@cqu.edu.cn
+
 import os
 import random
-
 # 选择工作模式
 while(1):
     print("请输入学习内容：1=词缀，2=词根")
@@ -20,7 +27,7 @@ while(1):
         print("输入无效")
         pass
 
-# TODO 顺序出现左边的词。 下面一行用来输入。输入完之后可以对比。 也可以直接对比. 支持导出不熟悉的词。
+
 # 读取前缀和含义，分别保存，以i作为下标
 list_pre=[] # 前缀
 list_forget=[] # 含义和例子
@@ -43,7 +50,7 @@ def az():
 
 # 倒序记词
 def za():
-    for i in range(len(list_pre),0, -1):
+    for i in range(len(list_pre)-1,0, -1):
         exit_code= user_inter(i)
         if(exit_code):
             break
@@ -59,15 +66,20 @@ def rand():
 # 每一个词的用户交互
 def user_inter(i):
     clr = os.system("cls") # 清屏
+    print("第【"+str(i)+"】号词")
+    print("\n————————————\n")
     print("请输入\'"+list_pre[i]+"\'的含义")
+    print("\n————————————\n")
     you_ans= input()
-    print("你的答案："+you_ans)
-    print("Prof.He的答案："+ list_forget[i])
-    print("按1收藏该词并继续，按2不收藏并继续，按3结束并导出收藏词")
+    print("\n————————————\n")
+    print("答案："+ list_forget[i].replace('\n', ' '))# 去掉换行符
+    print("\n————————————\n")
+    print("请选择操作：1=收藏该词并继续，2=不收藏并继续，3=结束并导出收藏词")
     save_code=input()
     if(save_code== '1'):
         save_list.append(list_pre[i]+":"+list_forget[i]+" 你的答案："+ you_ans)
     if(save_code== '3'):
+        print("已收藏，退出中")
         save_list.append(list_pre[i] + ":" + list_forget[i] + " 你的答案：" + you_ans)
         output_save()
         return 1
@@ -89,8 +101,12 @@ if(seq_code=='2'):
     za()
 if(seq_code=='3'):
     rand()
-print("感谢使用 考试加油 请备份mysave.txt(不然下一次会被清空)")
 
+print("\n————————————\n")
+print("感谢使用 考试加油")
+print("\n————————————\n")
+print("请备份mysave.txt(不然下一次会被清空)")
+print("\n————————————\n")
 
 
 
