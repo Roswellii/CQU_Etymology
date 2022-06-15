@@ -1,18 +1,18 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2022/5/26 19:09
-# @Author   Zhou Yiqun,CS,CQU
+# @Author   my friend
 # @File    : main.py
 # @Software: PyCharm
 
 # 这是一个简单的背词器脚本，用来迎接十八周的词根词缀考试.
-# 我尽可能多写了一些注释，欢迎大家进一步修改。也许搞一个小程序版更加方便。
+# 欢迎大家进一步修改同步到github上
 # Prof.He给的复习资料的第二第三部分对应项目中的part2.txt和part3.txt
 # 请确保它们和main.py在同一文件夹下
-# 祝大家一切顺利
-# contact: zhouyiqun@cqu.edu.cn
+
 
 import os
 import random
+import time
 # 选择工作模式
 while(1):
     print("请输入学习内容：1=词缀，2=词根")
@@ -102,13 +102,14 @@ if(seq_code=='2'):
 if(seq_code=='3'):
     rand()
 
+clr = os.system("cls") # 清屏
 print("\n————————————\n")
-print("感谢使用 考试加油")
+print("感谢使用 good luck")
 print("\n————————————\n")
 print("请备份mysave.txt(不然下一次会被清空)")
 print("\n————————————\n")
 
-
+time.sleep(2)
 
 
 

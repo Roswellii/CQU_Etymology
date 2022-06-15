@@ -1,63 +1,36 @@
-ab, abs-: from , away from
-ad, ac, at, ag, an, ap, ar, as, at-: to, forward
 ambi-: both, two
 an, a-: without
 ante, -: before
 anti-: against, opposite
-arch-: chief, first
-be-: over, thorough  (bedaub, befuddle)
-cata-: down (catastrophe, cataract, catapult)
 circum-: around
 con, com, col, cor-: with, together
 contra, contro-: against
 de-: down, away (debase, decadence)
 demi-: partly, half
-di-: two (dichotomy, dilemma) 
-dia-: across (diagonal, diameter, diameter, dialogue) 
+di-: two (dichotomy, dilemma)
+dia-: across (diagonal, diameter, diameter, dialogue)
 dis, diff-: not, apart (discord, differ, diffuse)
-dys-: faulty, bad (dyslexia, dyspepsia, dysfunction ) 
 ex, e-: out
 extra, extro-: beyond, outside
 hyper-: above, excessively (hyperbole, hyperventilate)
-hypo-: beneath, lower  (hypoglycemia, hypothesis, hypocrite, hypodermic) 
+hypo-: beneath, lower (hypoglycemia, hypothesis, hypocrite, hypodermic)
 in, im, il, ir-: not
 in, im, il, ir-: in, on, upon
-inter-: between, among, 
-intra, intro-: within  ( intramural, introvert)
-macro-: large, long  (macrobiotic, macrocosm, macroscopic)
-micro-: small  (microcosm, microscopic)
-mega-: great, million  (megalomania, megaton, megahertz)
-mis-: bad, improper  (misdemeanor, mischance)
-mis-: hatred  (misanthrope, misogynist)
-mono-: one  (monarchy, monotheism) 
-multi-: many  (multifarious, multitudinous)
-neo-: new  (neologism, neophyte) 
-non-: not
-ob, oc, of, op-: against  (obloquy, occlude, offend, opponent)
-olig-: few  (oligarchy)
-pan-: all, every  (panacea, panorama)
-para-: beyond, related  (parallel, paraphrase) 
-per-: through, completely  (permeable, pervade, permanent)
-peri-: around, near  (perimeter, periphery)
-poly-: many  (polyglot, polygamy)
-post-: after (posthumous, postwar, preposterous) 
-pre-: before  (preamble, premonition, premature)
-prim-: first  (primordial, primogeniture, prime, primitive, premier, primeval)
-pro-: forward, in favor of (proponent, propulsive, prodemocracy, pro-and-con) 
-proto-: first  (prototype)
-pseudo-: false  (pseudonym) 
+inter-: between, among,
+intra, intro-: within ( intramural, introvert)
+macro-: large, long (macrobiotic, macrocosm, macroscopic)
+micro-: small (microcosm, microscopic)
+mis-: bad, improper (misdemeanor, mischance)
+mis-: hatred (misanthrope, misogynist)
+mono-: one (monarchy, monotheism)
+multi-: many (multifarious, multitudinous)
+neo-: new (neologism, neophyte)
+para-: beyond, related (parallel, paraphrase)
+per-: through, completely (permeable, pervade, permanent)
+poly-: many (polyglot, polygamy)
+post-: after (posthumous, postwar, preposterous)
+pre-: before (preamble, premonition, premature)
+pro-: forward, in favor of (proponent, propulsive, prodemocracy, pro-and-con)
 re-: again, back
-retro-: backward  (retrospect, retroactive)
-se-: away, aside  (secede, seclude)
-semi-: half, partly  (semiconscious)
-sub, suc, suf, sug, sup, sus-: under, less (subjugate, succumb, suffuse, suggest, suppress, suspend)
-super, sur-: over, above  (supernatural, surtax)
-syn, sym, sys, syl-: with, together  (synchronize, sympathize, syllogism, system)
-tele-: far  (telepathy, telecom)
-trans-: across  
-ultra-: beyond, excessive  (ultracritical, ultramundane, ultraviolet) 
-un-: not  (unkempt)
-under-: below
-uni-: one  (unison, unique, unite)
-vice-: in place of  (viceroy, vicarious)
-with-: away, against  (withstand)
+retro-: backward (retrospect, retroactive)
+se-: away, aside (secede, seclude)

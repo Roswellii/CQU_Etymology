@@ -15,19 +15,11 @@ arch: ruler, first
 aster: star
 aud, audit: hear
 auto: self
-belli: war
-ben, bon: good
-biblio: book
-bio: life
-breve: short
 cad, cas: to fall
 cap, capt, cept, ceive, cip, cup: to take, catch
 capit, capt: head
 carn: flesh
-ced, cess: to go, 
-celer: swift
-cent: one hundred
-chron: time
+ced, cess: to go,
 cid, cis: to cut, kill
 cit, citat: to call, shout
 civi: city, citizen
@@ -40,103 +32,32 @@ corpor: body
 cred, credit: to believe
 cur: to care
 curr, curs: to run
-da, dat: to give (data, mandate, date)
-deb, debit: to owe  (debt, indebtedness, debenture)
-dem: people  (democracy, demagogue, epidemic
-derm: skin  (epidermis, pachyderm, dermatology)
-di, diurn: day  (diary, diurnal, dial)
-dic, dict:  to say  (abdicate, diction, verdict)
-doc, doct: to teach 
-domin: to rule  (dominate, domain, dominant)
+di, diurn: day (diary, diurnal, dial)
+dic, dict: to say (abdicate, diction, verdict)
+doc, doct: to teach
+domin: to rule (dominate, domain, dominant)
 duc, duct: to lead
-dynam: power, strength  (dynamic, dynamite, dynamo, dynasty) 
-ego: self  (egoist, egocentric, egomania) 
-erg, urg, ert: work  (energy, allergy, exert, art, inert)
-err: to wander  (error, erratic, errant, aberrant)
-eu: good, well, beautiful  (eupeptic, eulogize, euphemism, euthanasia, euphony) 
 fac, fic, fec, fect, fit, feit: to make, to do
-fall, fals: to deceive  ( fallacious, infallible, falsify) 
-fer: to carry, to bear 
-fid: belief, trust 
+fall, fals: to deceive ( fallacious, infallible, falsify)
+fer: to carry, to bear
+fid: belief, trust
 fin: end, limit
 flect, flex: to bend
-fort: strong, luck  (fortitude, fortress, fortuitous, fortunate)
-frag, fract: break  
-fug: flee  (fugitive, refuge, centrifuge)
-fus: to pour, to melt  (effusive, infuse, diffuse, defuse)
-gam: marriage  (monogamy, bigamy, polygamy)
-gen, gener: class, race, to bear
-grad, gress: to go, step
-graph, gram: to write, record
-greg: flock, herd  (gregarious, aggregate, egregious, congregate)
-helio: sun (heliotrope, heliograph)
-it, itiner: to go, journey  (exit, itinerary, initiate, reiterate)
-jac, jact, jec: to throw  (projectile, eject, inject, deject, conjecture, adjacent)
-jur, jurat: to swear, law  (perjure, jury, injure, conjure, abjure) 
+fort: strong, luck (fortitude, fortress, fortuitous, fortunate)
+frag, fract: break
+fug: flee (fugitive, refuge, centrifuge)
+fus: to pour, to melt (effusive, infuse, diffuse, defuse)
 labor, laborat: to work
-leg, lect, lig: to collect, choose, read  (election, eligible, legible, illegible
+leg, lect, lig: to collect, choose, read (election, eligible, legible, illegible
 leg: law
-liber, libr: book  (library, libretto, libel)
-liber: free  (liberate, liberal, libertine) 
-log: word, study  (entomology, etymology)
-loqu, locut: to talk,  (soliloquy, loquacious, eloquent, dialogue, monologue)
-neg: deny  (negation, renege, renegade)
-nomen: name 
-nov: new  (novice, renovate, novelty, innovate) 
-omni: all  (omniscient, omnipotent, omnivorous, omnipresent) 
-oper: to work
-pac: peace  (pacify, pacific, pacifist) 
-pass, path: to suffer, feel 
+liber, libr: book (library, libretto, libel)
+liber: free (liberate, liberal, libertine)
+log: word, study (entomology, etymology)
+loqu, locut: to talk, (soliloquy, loquacious, eloquent, dialogue, monologue)
+nov: new (novice, renovate, novelty, innovate)
+omni: all (omniscient, omnipotent, omnivorous, omnipresent)
+pass, path: to suffer, feel
 pater, patr: father
 ped, pod: foot
 ped: child
-pel, puls: to drive
-pet, petit: to seek
-phil: love
-pos, posit, pon: to put, to place
-port, portat: to carry
 poten: able, powerful
-psych: mind
-put, putat: to calculate, to trim  (computation, amputate: cut off)
-quir, quest, quis, quer: to ask, to seek
-reg, rect: to rule, straight
-rid, ris: laugh 
-rog, rogat: to ask  (interrogate, arrogant, derogate, prerogative)
-rupt: to break
-sacr: holy
-sci: to know  (science, omniscient, conscious, prescient) 
-scop: watch, see
-scrib, script: to write
-sect: cut
-sid,sed, sess: to sit
-sent, sens: to feel, to think
-secut, sequi, seque: to follow
-solv, solute: to loosen
-somn: sleep  (insomnia, somnambulate)
-soph: wisdom, knowledge
-spect, spic: to look at
-string, strict: bind
-struct, stru: bo build
-tact, tag, teg, tig, tang: to touch
-tempor: time
-tain, ten, tent: to hold
-term: end
-terr: land
-therm: heat
-tort, tors: twist
-tract: to drag, to pull
-trud, trus: to push, shove
-urb: city
-vac, van: empty
-vad, vas:  to go
-veni, vent, ven: to come, to go
-ver: true  (very, veracious, verisimilitude, verify)
-verb: word
-vert, vers: to turn
-via, voy, vey: way  ( via, viable, deviate, obviate, envoy, convoy, convey)
-vis, vid: to see
-vict, vinc, vang: to conquer, to win (invincible, convict, vonvince, vanquish)
-viv, vit: alive
-voc, vocat: to call, voice
-vol: wish  (malevolent, volunteer, volition, benevolent, frivolous)
-volv, volute: to roll  (revolve, involve, evolve, devolve, convolution)
