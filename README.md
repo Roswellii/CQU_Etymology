@@ -18,6 +18,14 @@ Etymology exam is coming soon... This project helps you review  words one by one
 
 2- 解压zip
 
-3- 打开解压后的文件夹，用命令行进入当前路径
+3- 打开解压后的文件夹
 
-4- 在命令行键入python main.py
+4- 双击main.py
+
+
+文件夹架构：
+main.py 主程序，py脚本
+mysave.txt 收藏词，运行时会覆盖
+part2.txt 词缀部分及答案
+part3.txt 词根部分及答案
+README.md 本文件
