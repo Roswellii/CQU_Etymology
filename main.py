@@ -15,12 +15,15 @@ import random
 import time
 # 选择工作模式
 while(1):
-    print("请输入学习内容：1=词缀，2=词根")
+    print("请输入学习内容：1=100词, 2=词缀，3=词根")
     part_code = input()
     if(part_code=='1'):
-        file= open("part2.txt", "r",encoding= "utf-8")
+        file= open("part1.txt", "r",encoding= "utf-8")
         break
     elif(part_code=='2'):
+        file = open("part2.txt", "r", encoding="utf-8")
+        break
+    elif(part_code=='3'):
         file = open("part3.txt", "r", encoding="utf-8")
         break
     else:
@@ -90,7 +93,7 @@ for line in file:
     # 按照冒号切割
     line_l= line.split(":")
     list_pre.append(line_l[0])
-    list_forget.append(line_l[1])
+    list_forget.append(":".join(line_l[1:]))
 
 # 选择记词顺序：正序，倒序，乱序
 print("请输入学习模式：1=正序，2=倒序，3=乱序")
