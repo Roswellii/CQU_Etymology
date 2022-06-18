@@ -2,6 +2,9 @@
 Etymology exam is coming soon... This project helps you review  words one by one or randomly. You can also save those unfamiliar ones to a txt file.  Hope it will be helpful.
 
  一个简单的词语学习脚本，既给你思考的机会，又能校对正确答案。
+ 
+ update: 
+ 2022-6-18:add part 1 (100 words) 
 
 ------------
 
